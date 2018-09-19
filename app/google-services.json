@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "1005718752708",
+    "firebase_url": "https://kanonismos-bte.firebaseio.com",
+    "project_id": "kanonismos-bte",
+    "storage_bucket": "kanonismos-bte.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005718752708:android:dfd13693f008d978",
+        "android_client_info": {
+          "package_name": "com.example.admin.kanonismos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005718752708-0vjlof6nobs4uvn65ekf4bmt10a2r16h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.kanonismos",
+            "certificate_hash": "1e735be22822ade8ab31400d22fe8559163d286b"
+          }
+        },
+        {
+          "client_id": "1005718752708-l129q2uohhi4pvr95r18jsinf9cdc6cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYr88zS-j1kppVshVSMca9SfKvzn3Uc2s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005718752708-l129q2uohhi4pvr95r18jsinf9cdc6cv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1005718752708-nqv3352o2i36apqk4rckm5mj9pqpqii2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "gr.hellenicparliament.kanonismos"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005718752708:android:68ea98dbaeeb3ee9",
+        "android_client_info": {
+          "package_name": "world.mania.kanonismos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005718752708-rlejh6i5nobo6t5j4sk11umq936vvc3j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "world.mania.kanonismos",
+            "certificate_hash": "fd6fcf86f35babd8c52dbc77e69f826db4cf5f86"
+          }
+        },
+        {
+          "client_id": "1005718752708-l129q2uohhi4pvr95r18jsinf9cdc6cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYr88zS-j1kppVshVSMca9SfKvzn3Uc2s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005718752708-l129q2uohhi4pvr95r18jsinf9cdc6cv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1005718752708-nqv3352o2i36apqk4rckm5mj9pqpqii2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "gr.hellenicparliament.kanonismos"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
